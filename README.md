@@ -1,4 +1,4 @@
-Random Forest Regression Model for Predictive Analysi
+Random Forest Regression Model for Predictive Analysis
 
 Project Overview
 Goal: Build a Random Forest Regression model for predictive analysis (e.g., housing prices).
